@@ -1,0 +1,219 @@
+### Technology & Computing (1-10)
+**1. Q: What is machine learning?**
+A: Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed, relying on patterns and inference instead.
+**2. Q: How does blockchain ensure security?**
+A: Blockchain ensures security through decentralization, cryptographic hashing, and consensus mechanisms, making it extremely difficult to alter any single record without altering the entire network.
+**3. Q: What is the primary function of an API?**
+A: An API (Application Programming Interface) allows different software applications to communicate with each other by defining a set of rules and protocols for requesting and exchanging data.
+**4. Q: Why is cloud computing beneficial for startups?**
+A: Cloud computing benefits startups by reducing upfront capital costs for hardware, offering scalable resources that grow with the company, and providing access to enterprise-grade technology.
+**5. Q: What causes a DDoS attack?**
+A: A Distributed Denial of Service attack occurs when multiple compromised systems flood a target server, service, or network with a massive amount of traffic, rendering it unavailable to legitimate users.
+**6. Q: How does a solid-state drive differ from a hard disk drive?**
+A: An SSD uses flash memory to store data with no moving parts, resulting in faster read/write speeds and better durability, whereas an HDD uses mechanical spinning disks and a read/write head.
+**7. Q: What is the purpose of version control systems like Git?**
+A: Version control systems track and manage changes to code over time, allowing multiple developers to collaborate, revert to previous states, and prevent code conflicts.
+**8. Q: Can you explain the concept of edge computing?**
+A: Edge computing processes data closer to where it is generated (like IoT devices) rather than in a centralized cloud, reducing latency and bandwidth usage.
+**9. Q: What are neural networks inspired by?**
+A: Neural networks are computational models inspired by the structure and function of the human brain, consisting of interconnected nodes (neurons) organized in layers to process information.
+**10. Q: How does encryption protect digital privacy?**
+A: Encryption converts readable data into an encoded format (ciphertext) that can only be decoded by authorized parties possessing the correct cryptographic key, ensuring data remains private during transmission or storage.
+
+### Space & Astronomy (11-20)
+**11. Q: Why does the sun appear to change color throughout the day?**
+A: The sun appears to change color due to Rayleigh scattering; shorter blue wavelengths scatter in the atmosphere during midday, while longer red and orange wavelengths dominate at sunrise and sunset when light travels through more atmosphere.
+**12. Q: What is a black hole?**
+A: A black hole is a region of spacetime where gravity is so intense that nothing, not even light or other electromagnetic waves, has enough energy to escape its event horizon.
+**13. Q: How do astronauts sleep in space?**
+A: Astronauts sleep in small crew cabins, strapped into sleeping bags attached to the wall to prevent floating around and bumping into equipment in the microgravity environment.
+**14. Q: What is the difference between a meteor, meteoroid, and meteorite?**
+A: A meteoroid is a small rock in space; a meteor is the streak of light seen when it burns up in Earth's atmosphere; a meteorite is the surviving piece that strikes the Earth's surface.
+**15. Q: Why is Mars referred to as the Red Planet?**
+A: Mars is called the Red Planet because its surface is covered with iron oxide (rust), which gives the soil and dust a distinct reddish appearance.
+**16. Q: What causes the tides on Earth?**
+A: Tides are caused primarily by the gravitational pull of the Moon, and to a lesser extent the Sun, which bulges the ocean water toward and away from the celestial bodies.
+**17. Q: How long does it take for sunlight to reach Earth?**
+A: It takes approximately 8 minutes and 20 seconds for sunlight to travel from the Sun to Earth, covering a distance of about 93 million miles at the speed of light.
+**18. Q: What is the Great Red Spot on Jupiter?**
+A: The Great Red Spot is a giant, persistent high-pressure storm in Jupiter's atmosphere, large enough to engulf Earth, which has been raging for at least several hundred years.
+**19. Q: Why do stars twinkle?**
+A: Stars twinkle (stellar scintillation) because their light passes through Earth's turbulent atmosphere, which bends the light rays in random directions, causing the apparent brightness to fluctuate.
+**20. Q: What is a light-year?**
+A: A light-year is a unit of astronomical distance equal to the distance that light travels in a vacuum in one Julian year, which is about 5.88 trillion miles.
+
+### Biology & Nature (21-30)
+**21. Q: How does photosynthesis convert sunlight into energy?**
+A: Photosynthesis converts sunlight into chemical energy by using chlorophyll to capture light, which drives a reaction converting carbon dioxide and water into glucose and oxygen.
+**22. Q: What role do mitochondria play in a cell?**
+A: Mitochondria are known as the powerhouses of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.
+**23. Q: Why do leaves change color in the autumn?**
+A: In autumn, days get shorter and temperatures drop, causing trees to stop producing chlorophyll (green pigment), which reveals the hidden yellow and orange carotenoid pigments in the leaves.
+**24. Q: How do vaccines provide immunity?**
+A: Vaccines introduce a harmless component of a pathogen (like a weakened or dead virus) to the body, training the immune system to recognize and destroy it without causing the actual disease.
+**25. Q: What is the main function of white blood cells?**
+A: White blood cells (leukocytes) are part of the immune system responsible for defending the body against infectious disease and foreign materials by attacking pathogens.
+**26. Q: Why is biodiversity important for ecosystems?**
+A: Biodiversity ensures ecosystem resilience, as a wide variety of species guarantees natural sustainability for all life forms by providing food, clean air, water, and fertile soil.
+**27. Q: How do chameleons change their color?**
+A: Chameleons change color by adjusting nanocrystals in specialized cells called iridophores, which reflect different wavelengths of light, primarily for communication and temperature regulation rather than camouflage.
+**28. Q: What is DNA and where is it found?**
+A: DNA (deoxyribonucleic acid) is a molecule that carries the genetic instructions for the development, functioning, and reproduction of all known organisms, primarily located in the cell nucleus.
+**29. Q: How do plants absorb water from the soil?**
+A: Plants absorb water through their root hairs via osmosis, and it moves up the plant through the xylem tissue driven by capillary action and transpiration pull from the leaves.
+**30. Q: What causes mutations in living organisms?**
+A: Mutations are caused by errors during DNA replication, or by exposure to environmental mutagens like ultraviolet light, radiation, and certain chemicals, leading to changes in the genetic sequence.
+
+### History & Civilizations (31-40)
+**31. Q: What was the primary cause of the fall of the Roman Empire?**
+A: The fall of the Roman Empire wasn't caused by a single event but by a combination of factors including continuous barbarian invasions, economic troubles, military overspending, and political corruption.
+**32. Q: Why was the printing press invented by Gutenberg so revolutionary?**
+A: Gutenberg's printing press revolutionized society by allowing the mass production of books, drastically reducing their cost, accelerating the spread of knowledge, and fueling the Renaissance and Reformation.
+**33. Q: What was the purpose of the Silk Road?**
+A: The Silk Road was an ancient network of trade routes connecting the East and West, facilitating the exchange of goods like silk and spices, as well as culture, religion, and disease.
+**34. Q: How did the Pyramids of Giza be built?**
+A: The Pyramids were likely built by a massive workforce of skilled laborers who moved and stacked massive limestone blocks using ramps, levers, and sledges lubricated with water to reduce friction.
+**35. Q: What triggered World War I?**
+A: WWI was triggered by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo, which activated a complex system of mutual defense alliances among European powers.
+**36. Q: Why did the Renaissance start in Italy?**
+A: The Renaissance started in Italy due to its wealthy city-states, the remnants of Roman culture, the fall of Constantinople (which brought Greek scholars to Italy), and heavy patronage of the arts.
+**37. Q: What was the significance of the Magna Carta?**
+A: The Magna Carta, signed in 1215, established the principle that everyone, including the king, was subject to the law, laying the groundwork for modern constitutional democracy.
+**38. Q: How did the Industrial Revolution change society?**
+A: The Industrial Revolution transitioned societies from agrarian, hand-crafted economies to urban, machine-driven manufacturing, drastically altering living conditions, social classes, and global trade.
+**39. Q: What was the Cold War?**
+A: The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, characterized by nuclear arms races, espionage, and proxy wars, but no direct military conflict.
+**40. Q: Why did the ancient Mayans build pyramids?**
+A: The Mayans built pyramids as religious temples to honor their gods, and they often served as the focal point for rituals, including human sacrifices, and as astronomical observatories.
+
+### Geography & Earth Sciences (41-50)
+**41. Q: What causes earthquakes?**
+A: Earthquakes are caused by the sudden release of energy in the Earth's crust when tectonic plates shift, creating seismic waves that result in ground shaking.
+**42. Q: How are caves formed?**
+A: Most caves are formed in limestone rock by the slow dissolving action of slightly acidic groundwater over thousands to millions of years, a process called speleogenesis.
+**43. Q: Why is the Dead Sea so salty?**
+A: The Dead Sea is so salty because it is a terminal lake with no outflow; water only leaves through evaporation, leaving behind the high concentrations of minerals and salts carried in by the Jordan River.
+**44. Q: What is the greenhouse effect?**
+A: The greenhouse effect is a natural process where certain gases in Earth's atmosphere trap heat from the sun, warming the planet to a habitable temperature, though human activities have intensified this effect.
+**45. Q: How do volcanic islands form?**
+A: Volcanic islands form from the accumulation of lava and volcanic ash erupting from the ocean floor, usually at tectonic plate boundaries or over mantle "hotspots," eventually building up above sea level.
+**46. Q: What is the difference between weather and climate?**
+A: Weather refers to short-term, localized atmospheric conditions (like rain or sunshine on a given day), while climate is the long-term average of weather patterns over decades or centuries in a region.
+**47. Q: Why are rainforests located near the equator?**
+A: Rainforests are located near the equator because this region receives direct, intense sunlight year-round, driving high rates of evaporation, convectional rainfall, and consistent warm temperatures.
+**48. Q: What creates the Northern Lights (Aurora Borealis)?**
+A: The Northern Lights are created when charged particles from the sun interact with Earth's magnetic field, directing them toward the poles where they collide with atmospheric gases, causing them to glow.
+**49. Q: How do glaciers shape the land?**
+A: Glaciers shape the land through erosion and deposition, carving out U-shaped valleys, fjords, and cirques by dragging rocks and sediment, and leaving behind moraines and drumlins as they retreat.
+**50. Q: What is the Ring of Fire?**
+A: The Ring of Fire is a horseshoe-shaped belt around the Pacific Ocean where about 90% of the world's earthquakes and 75% of its active volcanoes occur, due to tectonic plate boundaries.
+
+### Literature & Arts (51-60)
+**51. Q: What is the defining characteristic of Shakespearean sonnets?**
+A: Shakespearean sonnets consist of 14 lines written in iambic pentameter, following a specific rhyme scheme of ABAB CDCD EFEF GG, and typically ending with a rhyming couplet.
+**52. Q: How did Impressionism change the art world?**
+A: Impressionism broke away from traditional, realistic painting by focusing on capturing fleeting moments of light and color using visible brushstrokes and painting outdoors (en plein air).
+**53. Q: What is the concept of "stream of consciousness" in literature?**
+A: Stream of consciousness is a narrative technique that presents a character's flowing thoughts and feelings as they occur, often without traditional syntax or punctuation, to depict internal mental states.
+**54. Q: Why is the Mona Lisa so famous?**
+A: The Mona Lisa is famous for Leonardo da Vinci's masterful use of sfumato (subtle shading), her enigmatic smile, and the massive publicity it received after it was stolen from the Louvre in 1911.
+**55. Q: What is the purpose of a chorus in ancient Greek tragedy?**
+A: The chorus in ancient Greek tragedy provides commentary on the action, offers background information, reflects the opinions of the audience, and often represents the societal norms of the time.
+**56. Q: How does jazz music differ from classical music?**
+A: Jazz relies heavily on improvisation, syncopation, and swing rhythms, allowing musicians to express individuality, whereas classical music focuses on precise notation, structure, and composer-driven execution.
+**57. Q: What are the primary themes in dystopian fiction?**
+A: Dystopian fiction typically explores themes of oppressive government control, loss of individuality, environmental disaster, and the dangerous consequences of technological advancements.
+**58. Q: Who wrote "One Hundred Years of Solitude" and what genre is it?**
+A: Gabriel García Márquez wrote "One Hundred Years of Solitude," and it is a seminal work of magical realism, blending mythical and fantastical elements with the realistic history of a fictional town.
+**59. Q: What is the rule of thirds in photography?**
+A: The rule of thirds is a compositional guideline that divides an image into a 3x3 grid, suggesting that placing subjects along the lines or intersections creates a more balanced and engaging photograph.
+**60. Q: Why did abstract art emerge in the early 20th century?**
+A: Abstract art emerged as artists sought to move away from visual reality, driven by a desire to express inner emotions, spiritual ideas, and the rapid changes of the modern industrialized world.
+
+### Health & Medicine (61-70)
+**61. Q: Why is sleep essential for human health?**
+A: Sleep is essential because it allows the brain to consolidate memories, clears out cellular waste, repairs tissues, regulates hormones, and strengthens the immune system.
+**62. Q: How does the heart pump blood through the body?**
+A: The heart pumps blood by contracting its four chambers in a synchronized rhythm: the atria receive blood, and the ventricles contract to push oxygenated blood to the body and deoxygenated blood to the lungs.
+**63. Q: What is the difference between a virus and a bacteria?**
+A: Bacteria are single-celled, living organisms that can survive independently and are treated with antibiotics, while viruses are non-living packages of genetic material that require a host cell to replicate and are treated with antivirals.
+**64. Q: Why do humans need to consume vitamins?**
+A: Humans need vitamins because the body cannot synthesize enough of them; they act as essential coenzymes in metabolic processes, supporting immune function, bone health, and energy production.
+**65. Q: What causes type 2 diabetes?**
+A: Type 2 diabetes is caused by the body becoming resistant to insulin or the pancreas failing to produce enough insulin, often linked to obesity, physical inactivity, and genetics.
+**66. Q: How does the human body maintain its temperature?**
+A: The body maintains temperature through the hypothalamus, which triggers sweating to cool down and shivering or blood vessel constriction to generate and retain heat.
+**67. Q: What is the function of the human skeleton?**
+A: The skeleton provides structural support for the body, protects vital internal organs, facilitates movement by acting as levers for muscles, and stores minerals like calcium.
+**68. Q: Why does aerobic exercise improve cardiovascular health?**
+A: Aerobic exercise strengthens the heart muscle, increases its pumping efficiency, lowers resting heart rate, improves blood vessel function, and helps reduce bad cholesterol.
+**69. Q: What are antibodies and how do they work?**
+A: Antibodies are Y-shaped proteins produced by the immune system that bind to specific foreign substances (antigens) like viruses or bacteria, neutralizing them or marking them for destruction.
+**70. Q: How does anesthesia prevent pain during surgery?**
+A: General anesthesia works by using drugs to interrupt nerve impulses in the brain and spinal cord, inducing a controlled state of unconsciousness, immobility, and amnesia, blocking the perception of pain.
+
+### Physics & Chemistry (71-80)
+**71. Q: What is the theory of relativity?**
+A: The theory of relativity, developed by Albert Einstein, encompasses two ideas: special relativity (speed of light is constant, time/space are relative) and general relativity (gravity is the curvature of spacetime by mass).
+**72. Q: How do magnets work?**
+A: Magnets work because their atoms are aligned in such a way that their individual magnetic fields (caused by the spin of electrons) combine to create a strong, unified magnetic field with distinct north and south poles.
+**73. Q: What is the Heisenberg Uncertainty Principle?**
+A: The Heisenberg Uncertainty Principle states that it is fundamentally impossible to simultaneously know both the exact position and the exact momentum of a quantum particle; measuring one precisely makes the other uncertain.
+**74. Q: Why does sound travel faster in water than in air?**
+A: Sound travels faster in water because water molecules are packed much more densely than air molecules, allowing the mechanical wave of compression and rarefaction to propagate more quickly.
+**75. Q: What is an isotope?**
+A: An isotope is a variant of a chemical element that has the same number of protons but a different number of neutrons in its nucleus, resulting in a different atomic mass.
+**76. Q: How does a prism separate white light into colors?**
+A: A prism separates white light because different colors (wavelengths) of light travel at slightly different speeds inside the glass, causing them to refract (bend) at different angles and spread out into a spectrum.
+**77. Q: What is thermodynamics?**
+A: Thermodynamics is the branch of physics dealing with heat, work, and energy, governed by four laws that dictate how energy moves and transforms within a system, notably stating that entropy (disorder) always increases.
+**78. Q: Why is the periodic table arranged the way it is?**
+A: The periodic table is arranged by increasing atomic number (protons) and grouped into columns (groups) and rows (periods) based on repeating patterns in electron configurations and chemical properties.
+**79. Q: What causes static electricity?**
+A: Static electricity is caused by the transfer of electrons between two objects through friction or contact, leaving one object with a positive charge and the other with a negative charge.
+**80. Q: How do nuclear reactors generate electricity?**
+A: Nuclear reactors generate electricity by using the heat produced by nuclear fission (splitting uranium atoms) to boil water into steam, which then spins a turbine connected to a generator.
+
+### Economics & Business (81-90)
+**81. Q: What causes inflation in an economy?**
+A: Inflation is primarily caused by demand-pull factors (consumer demand outpaces supply) or cost-push factors (production costs rise, forcing prices up), often exacerbated by an expansion of the money supply.
+**82. Q: How does supply and demand determine price?**
+A: In a free market, the price of a good is determined by the intersection of supply and demand; if demand exceeds supply, prices rise, and if supply exceeds demand, prices fall until an equilibrium is reached.
+**83. Q: What is the purpose of a central bank?**
+A: A central bank manages a country's currency, money supply, and interest rates, aiming to control inflation, stabilize the financial system, and promote sustainable economic growth.
+**84. Q: Why do companies issue stocks?**
+A: Companies issue stocks to raise capital to fund business operations, expand, pay off debt, or launch new products, trading partial ownership of the company for cash from investors.
+**85. Q: What is gross domestic product (GDP)?**
+A: GDP is the total monetary value of all finished goods and services produced within a country's borders in a specific time period, used as a broad measure of a nation's overall economic activity.
+**86. Q: How does compound interest differ from simple interest?**
+A: Simple interest is calculated only on the principal amount, while compound interest is calculated on the principal plus any previously accumulated interest, leading to exponential growth over time.
+**87. Q: What is a monopoly in economics?**
+A: A monopoly exists when a single company or entity controls the entire market for a product or service, facing no significant competition, which allows it to dictate prices and reduce consumer choice.
+**88. Q: Why is diversification important in investing?**
+A: Diversification reduces risk by spreading investments across various asset classes, industries, or geographical regions, ensuring that a poor performance in one area doesn't devastate the entire portfolio.
+**89. Q: What is the difference between fiscal and monetary policy?**
+A: Fiscal policy involves government decisions on taxation and spending to influence the economy, while monetary policy involves a central bank manipulating interest rates and the money supply.
+**90. Q: How does outsourcing affect a domestic economy?**
+A: Outsourcing can lower costs and increase profits for companies, but it often leads to domestic job losses in manufacturing or service sectors, shifting the economy toward different types of jobs.
+
+### Philosophy & Psychology (91-100)
+**91. Q: What is Plato's Allegory of the Cave?**
+A: Plato's Allegory of the Cave suggests that everyday reality is like living in a cave watching shadows on a wall, representing ignorance; true knowledge and reality (the Forms) exist only outside the cave in the light.
+**92. Q: What is cognitive dissonance?**
+A: Cognitive dissonance is the mental discomfort experienced by a person who holds two or more contradictory beliefs, values, or ideas, often leading them to change their beliefs or rationalize the conflict.
+**93. Q: How does classical conditioning work?**
+A: Classical conditioning, discovered by Ivan Pavlov, is a learning process where a biologically potent stimulus (like food) is paired with a neutral stimulus (like a bell), eventually causing the neutral stimulus to trigger a conditioned response (salivation).
+**94. Q: What is the core idea of existentialism?**
+A: Existentialism posits that humans are free agents who determine their own meaning and purpose in life through acts of free will, existing first and then creating their essence through choices.
+**95. Q: Why do people experience the placebo effect?**
+A: The placebo effect occurs when a person experiences a perceived improvement in condition after receiving a fake treatment, driven by psychological expectations, conditioning, and the brain's natural pain-relief mechanisms.
+**96. Q: What is Maslow's Hierarchy of Needs?**
+A: Maslow's Hierarchy is a psychological theory proposing that human needs are arranged in a pyramid, starting with basic physiological needs, moving up to safety, love/belonging, esteem, and finally self-actualization at the top.
+**97. Q: What is the difference between utilitarianism and deontology?**
+A: Utilitarianism judges the morality of an action based on its outcome (maximizing overall happiness), while deontology judges morality based on adherence to rules and duties, regardless of the consequences.
+**98. Q: How does confirmation bias affect decision making?**
+A: Confirmation bias leads people to search for, interpret, and remember information in a way that confirms their pre-existing beliefs, causing them to ignore contradictory evidence and make flawed decisions.
+**99. Q: What is the Sapir-Whorf hypothesis?**
+A: The Sapir-Whorf hypothesis suggests that the structure and vocabulary of a language influence and limit its speakers' cognition, perception, and worldview.
+**100. Q: What is the psychological concept of "flow"?**
+A: "Flow" is a mental state of deep, effortless concentration and immersion in an activity, where a person loses track of time and self-consciousness, usually occurring when the challenge perfectly matches their skill level.
