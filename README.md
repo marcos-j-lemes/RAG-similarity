@@ -12,4 +12,8 @@ python pipeline.py --input your_dataset.md
 pip install fastapi uvicorn
 
 uvicorn api:app --reload
+
+# baixar llama, modelo leve
+curl -fsSL https://ollama.com/install.sh | sh
+
 ```

@@ -4,3 +4,4 @@ chromadb>=0.5.0
 anthropic>=0.30.0      # only needed for examples.py RAG+LLM demo
 numpy>=1.26.0
 fastapi uvicorn
+OpenAI
